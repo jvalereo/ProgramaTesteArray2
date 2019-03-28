@@ -1,0 +1,9 @@
+C:\Users\JONAS\Desktop\Curso Fundação Bradesco C# Básico\AulaArray2\AulaArray2\bin\Debug\AulaArray2.exe.config
+C:\Users\JONAS\Desktop\Curso Fundação Bradesco C# Básico\AulaArray2\AulaArray2\bin\Debug\AulaArray2.exe
+C:\Users\JONAS\Desktop\Curso Fundação Bradesco C# Básico\AulaArray2\AulaArray2\bin\Debug\AulaArray2.pdb
+C:\Users\JONAS\Desktop\Curso Fundação Bradesco C# Básico\AulaArray2\AulaArray2\obj\Debug\AulaArray2.csprojResolveAssemblyReference.cache
+C:\Users\JONAS\Desktop\Curso Fundação Bradesco C# Básico\AulaArray2\AulaArray2\obj\Debug\AulaArray2.Form1.resources
+C:\Users\JONAS\Desktop\Curso Fundação Bradesco C# Básico\AulaArray2\AulaArray2\obj\Debug\AulaArray2.Properties.Resources.resources
+C:\Users\JONAS\Desktop\Curso Fundação Bradesco C# Básico\AulaArray2\AulaArray2\obj\Debug\AulaArray2.csproj.GenerateResource.Cache
+C:\Users\JONAS\Desktop\Curso Fundação Bradesco C# Básico\AulaArray2\AulaArray2\obj\Debug\AulaArray2.exe
+C:\Users\JONAS\Desktop\Curso Fundação Bradesco C# Básico\AulaArray2\AulaArray2\obj\Debug\AulaArray2.pdb
